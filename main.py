@@ -3,7 +3,8 @@ import pymupdf  # PyMuPDF
 
 # Define the folder path containing your PDF files
 pdf_parent_folder = "pdfsToMerge"
-target_folder = "test-merge-1"
+# target_folder = "test-merge-1"
+target_folder = "test-merge-2"
 pdf_folder_path = os.path.join(os.getcwd(), pdf_parent_folder, target_folder)
 
 # Define the output file name
