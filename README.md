@@ -1,7 +1,13 @@
 # PDF-merger using PyMuPDF v1.25.3
 This is a straightforward PDF merging tool that uses a high-performance Python library "[PyMuPDF](https://pymupdf.readthedocs.io/en/latest/)".
 
-# How to use
+# What it does
+Want to merge PDFs without uploading sensitive information to unknown servers?
+<br>Do it locally using a simple python program!
+
+For project setup, refer to [Project Setup and Running Guide](https://github.com/snoozy10/pdf-merger_PyMuPDF/wiki/Project-Setup-and-Running-Guide).
+
+# How to merge PDFs
 1. Create a folder inside the existing folder "**pdfsToMerge**"
 <br>*[e.g. test-merge-1]*
 
